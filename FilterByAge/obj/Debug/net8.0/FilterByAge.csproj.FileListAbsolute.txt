@@ -1,0 +1,14 @@
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\bin\Debug\net8.0\FilterByAge.exe
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\bin\Debug\net8.0\FilterByAge.deps.json
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\bin\Debug\net8.0\FilterByAge.runtimeconfig.json
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\bin\Debug\net8.0\FilterByAge.dll
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\bin\Debug\net8.0\FilterByAge.pdb
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.AssemblyInfo.cs
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.dll
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\refint\FilterByAge.dll
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.pdb
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\FilterByAge.genruntimeconfig.cache
+C:\Users\Martin\OneDrive - Министерство на образованието и науката\Desktop\ПГТК\11vGrupa1\FilterByAge\FilterByAge\obj\Debug\net8.0\ref\FilterByAge.dll
